@@ -1,0 +1,3 @@
+D:/CPP_project/my_xgb/cmake-build-debug/CMakeFiles/my_xgb.dir
+D:/CPP_project/my_xgb/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CPP_project/my_xgb/cmake-build-debug/CMakeFiles/rebuild_cache.dir
